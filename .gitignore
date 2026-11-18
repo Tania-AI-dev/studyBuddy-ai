@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Additional project-specific exclusions
+.env.*
+!.env.example
+*.log
+.DS_Store
