@@ -1,0 +1,9 @@
+flask
+pyngrok
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+torch
+pypdf
+numpy
